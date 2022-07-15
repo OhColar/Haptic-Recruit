@@ -1,3 +1,2 @@
 # Haptic-Recruit
-Snapshot of Haptic Recruit - 
-Website: https://www.hapticrecruit.com/
+Snapshot of Haptic Recruit - https://www.hapticrecruit.com/
